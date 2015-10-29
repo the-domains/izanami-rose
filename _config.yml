@@ -1,0 +1,23 @@
+name: Izanami Rose
+favicon: null
+layout_spectrum: 0.9643467322457582
+typography_spectrum: 0.8110086126253009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.17019786080345511
+  lightness: 0.3212096942588687
+  saturation: 0.9001339117530733
+  rhythmicContrast: 0.29806465399451554
+purpose: []
